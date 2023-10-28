@@ -5,6 +5,5 @@ const data = require('./6-alternative-module');
 require('./7-mind-grenade');
 sayhi(names.peter);
 sayhi(names.john);
-sayhi('harshit');
+sayhi('harshita');
 console.log(data);
-
